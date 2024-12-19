@@ -1,24 +1,24 @@
 # Python_Notebook
-# Basics of Python Before Machine Learning
+# Basics of Python
 
-Welcome to **"Basics of Python Before ML"**, a repository designed to help you master the fundamentals of Python programming. 🚀
+Welcome to **"Basics of Python"**, a repository designed to help you master the fundamentals of Python. 🚀
 
 ## 📌 Why This Repository?
 It's crucial to have a strong foundation in Python. This repository provides concise, beginner-friendly resources to:
 
 - Learn essential Python concepts.
 - Practice hands-on coding with examples.
+
 ---
 
 ## 🗂️ Table of Contents
 
 1. [Getting Started](#getting-started)
 2. [Prerequisites](#prerequisites)
-3. [Topics Covered](#topics-covered)
-4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Contributing](#contributing)
-7. [License](#license)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Contributing](#contributing)
+6. [License](#license)
 
 ---
 
@@ -83,7 +83,7 @@ This repository is inspired by the need to bridge the gap between Python basics 
 ---
 
 ## 🧑‍💻 Author
-Created by Divansh_G([https://github.com/yourusername](https://github.com/Divansh2025)). Connect with me on [LinkedIn]([https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/divansh-galani/)).
+Created by [Divansh Galani](https://github.com/Divansh2025). Connect with me on [LinkedIn](https://www.linkedin.com/in/divansh-galani/).
 
 ---
 
