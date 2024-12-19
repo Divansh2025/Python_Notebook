@@ -83,7 +83,7 @@ This repository is inspired by the need to bridge the gap between Python basics 
 ---
 
 ## 🧑‍💻 Author
-Created by [Your Name](https://github.com/yourusername). Connect with me on [LinkedIn](https://linkedin.com/in/yourlinkedin).
+Created by Divansh_G([https://github.com/yourusername](https://github.com/Divansh2025)). Connect with me on [LinkedIn]([https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/divansh-galani/)).
 
 ---
 
